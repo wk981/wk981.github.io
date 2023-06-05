@@ -57,7 +57,7 @@
     grid-template-rows: repeat(5,1fr);
 }
 
-#big{
+.main .button-grid .btn.big{
     grid-column: span 2;
 }
 
